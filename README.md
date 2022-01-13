@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Fun
 - 🌱 I’m currently learning: Life
 - 💞️ I’m looking to collaborate on: Things
-- 📫 How to reach me: njs@link-media.no
+- 📫 How to reach me: nicholas@apidari.no
 
 <!---
 njs-link/njs-link is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
